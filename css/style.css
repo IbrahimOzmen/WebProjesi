@@ -1,0 +1,80 @@
+.ResimSlide{
+    height: 722px;
+}
+
+body{
+    padding-top: 35px;
+    font-family: 'KoHo', sans-serif;
+}
+
+
+.hakkimizda{
+    background-color: beige; 
+}
+
+
+.memleket{
+    background-color: beige;
+}
+
+.takim{
+    background-color: beige;
+}
+
+.cizgi{
+    border:none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ikoninfo{
+    color: #343a40;
+    position: relative;
+    top: -59px;
+    font-size: 40px;
+    border: 13px solid #f5f5dc;
+    background-color: #f5f5dc;
+}
+
+
+
+.ikonokul{
+    color: #343a40;
+    position: relative;
+    top: -65px;
+    font-size: 40px;
+    border: 13px solid white;
+    background-color: white;
+}
+
+.ikonmem{
+    color: #343a40;
+    position: relative;
+    top: -65px;
+    font-size: 40px;
+    border: 13px solid #f5f5dc;
+    background-color: #f5f5dc;
+}
+
+.ikontop{
+    color: #343a40;
+    position: relative;
+    top: -61px;
+    font-size: 40px;
+    border: 13px solid #f5f5dc;
+    background-color: #f5f5dc;
+}
+
+.ikonbanaulas{
+    color: #343a40;
+    position: relative;
+    top: -59px;
+    font-size: 40px;
+    border: 13px solid white;
+    background-color: white;
+}
+
+
+
+
